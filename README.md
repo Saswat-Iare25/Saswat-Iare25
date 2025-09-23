@@ -1,29 +1,17 @@
 ## Hi there 👋
 
 
-# 👋 Hi there, I'm Saswat Rath  
+# 👋 Hi there, I'm Saswat Rath
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
+![trophy](https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=onedark&cache_seconds=1800)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saswat-Iare25&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saswat-Iare25&show_icons=true&theme=radical&cache_seconds=1800)
 
----
+## 📂 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saswat-Iare25&layout=compact&theme=radical&cache_seconds=1800)
 
-## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Saswat-Iare25&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
-## 🌱 Contribution Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saswat-Iare25&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-✨ Thanks for visiting my profile!
 
 
 
