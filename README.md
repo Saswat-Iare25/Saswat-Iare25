@@ -29,11 +29,6 @@ Aspiring AI Engineer | CSE (AIML) @ IARE | Passionate about Coding, Innovation, 
 
 ---
 
-## Contribution Snake  
-![snake gif](https://github.com/Saswat-Iare25/Saswat-Iare25/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## Featured Repositories  
 
 | Repository | Language | Stars | Description |
