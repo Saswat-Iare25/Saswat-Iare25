@@ -5,7 +5,9 @@ Aspiring AI Engineer | CSE (AIML) @ IARE | Passionate about Coding, Innovation, 
 ---
 
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=radical&no-frame=true&title=Stars,Followers,Repositories,Commits)](https://github.com/ryo-ma/github-profile-trophy)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=onedark&no-frame=true&margin-w=5)
+
 
 ---
 
