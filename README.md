@@ -34,17 +34,6 @@ Just working my way up — learning, experimenting, and trying to build somethin
   <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=juicyfresh&title=Stars,Commits,Repositories,Followers,PullRequest&no-bg=false&no-frame=true&margin-w=10&column=5" alt="GitHub Trophies" width="100%">
 </p>
 
-<!-- Neon red-gold trophy + green text glow -->
-<style>
-  img[src*="github-profile-trophy"] {
-    filter: hue-rotate(330deg) brightness(1.3) saturate(1.6) drop-shadow(0px 0px 6px #00ff55);
-  }
-</style>
-
-<p align="center">
-  <b><span style="color:#00ff55;">Lime stats, red metal trophies — the grind shows 🔥</span></b>
-</p>
-
 
 ###  GitHub Stats  
 
