@@ -41,10 +41,6 @@ Just working my way up — learning, experimenting, and trying to build somethin
   }
 </style>
 
-<p align="center">
-  <b><span style="color:#00ff55;">Lime stats, red metal trophies — the grind shows 🔥</span></b>
-</p>
-
 
 
 
