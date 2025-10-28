@@ -1,4 +1,4 @@
-<h1 align="center">Hey there , I'm Saswat Rath</h1>
+<h1 align="center">Hey there 👋, I'm Saswat Rath</h1>
 <p align="center">
   <b>AI | Web Dev | ML Enthusiast </b><br>
   <i>CSE (AIML) @ IARE | Building, Learning, and Leveling Up</i>
@@ -16,7 +16,7 @@ Just working my way up — learning, experimenting, and trying to build somethin
 
 ---
 
-###  Tech Stack  
+### ⚙️ Tech Stack  
 
 **Languages & Tools:**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -31,7 +31,9 @@ Just working my way up — learning, experimenting, and trying to build somethin
 ---
 
 ###  GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=matrix&title=Commits,Repositories,Stars,Followers,PullRequest&no-frame=false&margin-w=5)
+
+
 
 ---
 
@@ -68,15 +70,6 @@ Just working my way up — learning, experimenting, and trying to build somethin
 
 ---
 
-###  Fun Stats  
-
-![Profile Views](https://komarev.com/ghpvc/?username=Saswat-Iare25&color=blueviolet&style=for-the-badge)  
-![GitHub Followers](https://img.shields.io/github/followers/Saswat-Iare25?label=Followers&style=for-the-badge)  
-![GitHub Stars](https://img.shields.io/github/stars/Saswat-Iare25?affiliations=OWNER&style=for-the-badge&color=yellow)  
-![Repos](https://badges.pufler.dev/repos/Saswat-Iare25?style=for-the-badge)  
-
----
-
 ###  Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/saswat-rath"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
@@ -86,5 +79,5 @@ Just working my way up — learning, experimenting, and trying to build somethin
 ---
 
 <p align="center">
-   *Just doing my thing, one commit at a time.* 
+  ✨ *Just doing my thing, one commit at a time.* ✨
 </p>
