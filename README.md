@@ -41,16 +41,7 @@ Just working my way up — learning, experimenting, and trying to build somethin
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25
-    &theme=aura
-    &no-bg=false
-    &no-frame=false
-    &column=5
-    &margin-w=12
-    &margin-h=10
-    &rank=SECRET,SSS,SS,S,A,B,C
-    &title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews,Experience,LongTimeUser,MultiLanguage
-    &v=5" 
+    src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=aura&no-bg=false&no-frame=false&column=5&margin-w=12&margin-h=10&rank=SECRET,SSS,SS,S,A,B,C&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews,Experience,LongTimeUser,MultiLanguage&v=6" 
     alt="GitHub Trophies (Aura Theme)" 
     width="100%">
 </p>
