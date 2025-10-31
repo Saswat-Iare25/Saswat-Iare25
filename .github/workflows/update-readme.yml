@@ -1,0 +1,18 @@
+name: Auto Update GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every 24 hours (midnight UTC)
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Trigger README Refresh
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git commit --allow-empty -m "Auto-refresh stats"
+          git push
