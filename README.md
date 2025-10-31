@@ -1,6 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Saswat Rath</h1>
 <p align="center">
-  <b>here, check out-- <a href = "https://saswat-portfolio.netlify.app/" target = "_blank">my portfolio</a></b><br>
+ [my portfolio](https://saswat-portfolio.netlify.app/)
+
   <b>AI | Web Dev | ML Enthusiast </b><br>
   <i>CSE (AIML) @ IARE | Building, Learning, and Leveling Up</i>
 </p>
