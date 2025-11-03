@@ -45,7 +45,8 @@ Just working my way up — learning, experimenting, and trying to build somethin
 
 ### 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saswat-Iare25&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&v=2)
+![GitHub Stats](https://saswat-iare25.vercel.app/api?username=Saswat-Iare25&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
 
 ---
 
