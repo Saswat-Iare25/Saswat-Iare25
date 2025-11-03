@@ -1,8 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Saswat Rath</h1>
 
 <p align="center">
+  <b>Have a look at </b>
   <a href="https://saswat-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <b>my portfolio</b>
+    <b>my Portfolio</b>
   </a>
   <br>
   <b>AI | Web Dev | ML Enthusiast</b><br>
