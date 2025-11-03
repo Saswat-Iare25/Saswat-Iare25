@@ -99,14 +99,6 @@ Learning, experimenting, and trying to build something meaningful every step of 
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Saswat-Iare25&icon=1&color=10" alt="Profile Visits"/>
-  </a>
-</p>
-
----
-
-<p align="center">
   ✨ <i>Just doing my thing, one commit at a time.</i> ✨
 </p>
 
