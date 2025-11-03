@@ -84,9 +84,16 @@ Learning, experimenting, and trying to build something meaningful every step of 
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
+<!-- Main large trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=radical&no-frame=false&no-bg=true&margin-w=10&row=1&column=8" width="100%" alt="Main GitHub Trophies" />
 </p>
+
+<!-- Mini secondary trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=8&title=Followers,Commits,Repositories,PullRequest,Issues,Stars,Experience,Reviews" width="90%" alt="Mini GitHub Trophies" />
+</p>
+
 
 ---
 
