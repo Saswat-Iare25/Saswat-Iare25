@@ -14,14 +14,14 @@
 
 <h2 align="center">💫 About Me</h2>
 
-<p align="center">
+<p align="left">
 Just a first-year tech enthusiast exploring the endless possibilities of code 🚀<br>
 Learning, experimenting, and trying to build something meaningful every step of the way.<br><br>
-🎓 First-year <b>CSE (AIML)</b> student at <b>IARE</b><br>
-💻 Learning <b>C, C++, Python, HTML, CSS, JS</b><br>
-🤖 Currently exploring <b>AI, Machine Learning</b>, and <b>Web Development</b><br>
-🧠 Curious about how intelligent systems learn and evolve<br>
-🪄 Motto: <i>“Move slow. Learn deeply. Grow steady.”</i><br>
+🎓 First-year <b>CSE (AIML)</b> student at <b>IARE</b><br><br>
+💻 Learning <b>C, C++, Python, HTML, CSS, JS</b><br><br>
+🤖 Currently exploring <b>AI, Machine Learning</b>, and <b>Web Development</b><br><br>
+🧠 Curious about how intelligent systems learn and evolve<br><br>
+🪄 Motto: <i>“Move slow. Learn deeply. Grow steady.”</i><br><br>
 ⚡ Fun Fact: <i>Still waiting for my first real bug... enjoying the calm before the syntax storm.</i> 🌩️
 </p>
 
