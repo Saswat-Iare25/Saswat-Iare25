@@ -1,4 +1,3 @@
-<h1 align="center">Hey there 👋, I'm Saswat Rath</h1>
 
 <p align="center">
   <b>Have a look at </b>
