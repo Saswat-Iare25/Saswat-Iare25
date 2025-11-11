@@ -1,0 +1,29 @@
+name: Refresh Trophy Stats
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"   # Every 2 hours
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update timestamp
+        run: |
+          echo "<!-- refreshed: $(date) -->" >> README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Auto refresh trophies" || echo "No changes"
+
+      - name: Push changes
+        run: |
+          git push
