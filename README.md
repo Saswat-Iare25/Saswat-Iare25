@@ -114,12 +114,14 @@ Learning, experimenting, and trying to build something meaningful every step of 
 
 ---
 
+
 ## 🔝 Top Contributed Repo  
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Saswat-Iare25&limit=5&theme=rose&combine_all_yearly_contributions=true" />
 </p>
 
 ---
+[![Follow](https://img.shields.io/github/followers/Saswat-Iare25?style=social)](https://github.com/Saswat-Iare25)
 
 <p align="center">✨ Just doing my thing, one commit at a time. ✨</p>
 
