@@ -91,9 +91,10 @@ Learning, experimenting, and trying to build something meaningful every step of 
   &no-frame=false
   &no-bg=false
   &margin-w=4
-  &title=Commits,Followers,Stars,Repositories" 
+  &title=commits,followers,stars,repositories"
   alt="GitHub Trophies"/>
 </p>
+
 
 
 ---
