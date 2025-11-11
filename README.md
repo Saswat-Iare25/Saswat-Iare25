@@ -83,11 +83,15 @@ Learning, experimenting, and trying to build something meaningful every step of 
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=commits,followers,stars,repositories" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25
+  &theme=onedark
+  &no-frame=false
+  &no-bg=false
+  &margin-w=4" />
 </p>
+
 
 
 
