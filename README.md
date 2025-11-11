@@ -100,10 +100,12 @@ Learning, experimenting, and trying to build something meaningful every step of 
 
 ---
 
-## 🏆 GitHub Trophies  
+<h2>🏆 GitHub Trophies</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=commits,stars,followers,repositories"/>
 </p>
+
 
 ---
 
