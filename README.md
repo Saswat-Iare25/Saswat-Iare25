@@ -121,7 +121,6 @@ Learning, experimenting, and trying to build something meaningful every step of 
 </p>
 
 ---
-[![Follow](https://img.shields.io/github/followers/Saswat-Iare25?style=social)](https://github.com/Saswat-Iare25)
 
 <p align="center">✨ Just doing my thing, one commit at a time. ✨</p>
 
