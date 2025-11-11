@@ -113,13 +113,6 @@ Learning, experimenting, and trying to build something meaningful every step of 
 </p>
 
 ---
-<p align="center">
-  <a href="https://github.com/Saswat-Iare25">
-    <img src="https://img.shields.io/github/followers/Saswat-Iare25?style=social" />
-  </a>
-</p>
-
----
 
 ## 🔝 Top Contributed Repo  
 <p align="center">
