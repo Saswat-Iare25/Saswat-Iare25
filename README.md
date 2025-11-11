@@ -19,6 +19,6 @@ Just a first-year tech enthusiast exploring the endless possibilities of code ğŸ
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### ğŸ” Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Saswat-Iare25&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Saswat-Iare25&limit=5&theme=rose&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
