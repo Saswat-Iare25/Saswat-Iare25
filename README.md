@@ -4,8 +4,8 @@
 </p>
 
 ---
-
-<b><a href = "https://saswat-portfolio.netlify.app/">Have a look at my portfolio!😁</a></b>
+<p align = "centre">
+<b><a href = "https://saswat-portfolio.netlify.app/">Have a look at my portfolio!😁</a></b></p>
 
 ---
 
