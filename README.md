@@ -109,7 +109,8 @@ Learning, experimenting, and trying to build something meaningful every step of 
   <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=radical&no-frame=true&title=Stars,Followers,Repositories,Commits)](https://github.com/ryo-ma/github-profile-trophy)-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=radical&no-frame=true&title=Stars,Followers,Repositories,Commits)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=radical&no-frame=true&title=Stars,Followers,Repositories,Commits,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
