@@ -112,11 +112,7 @@ Learning, experimenting, and trying to build something meaningful every step of 
 </p>
 
 
-<style>
-  img[src*="github-profile-trophy"] {
-    filter: hue-rotate(330deg) brightness(1.3) saturate(1.6) drop-shadow(0px 0px 6px #00ff55);
-  }
-</style>
+
 
 
 ---
