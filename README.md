@@ -134,6 +134,6 @@ Learning, experimenting, and trying to build something meaningful every step of 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0B0F18,100:1E2635" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=32&fontColor=E5E5E5&color=0:0B0F18,100:1E2635" />
 </p>
 
