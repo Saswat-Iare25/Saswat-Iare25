@@ -1,6 +1,10 @@
-<!-- HEADER -->
+<!-- PROFESSIONAL HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1000&color=9F7AEA&center=true&vCenter=true&width=650&lines=Hi+I'm+Saswat+Rath+%F0%9F%91%8B;AI%2FML+Enthusiast+%7C+Web+Developer;CSE+(AIML)+Student+at+IARE;Learning+Every+Single+Day+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:AA00FF&height=180&section=header&text=Saswat%20Rath&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=2500&pause=900&color=A56DFF&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast;Web+Developer;CSE+(AIML)+@+IARE;Learning+Every+Single+Day🚀" />
 </p>
 
 ---
