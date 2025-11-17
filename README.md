@@ -105,15 +105,16 @@ Learning, experimenting, and trying to build something meaningful every step of 
 ---
 
 ## 🏆 GitHub Trophies  
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=juicyfresh&title=Stars,Commits,Repositories,Followers,PullRequest&no-bg=false&no-frame=true&margin-w=10&column=5" alt="GitHub Trophies" width="100%">
 </p>
 
+---
 
-
-
+## 🟩 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saswat-Iare25&theme=react-dark&hide_border=false&area=true" width="100%"/>
+</p>
 
 ---
 
@@ -132,4 +133,3 @@ Learning, experimenting, and trying to build something meaningful every step of 
 ---
 
 <p align="center">✨ Just doing my thing, one commit at a time. ✨</p>
-
