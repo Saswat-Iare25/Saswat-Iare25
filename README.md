@@ -67,7 +67,6 @@ Learning, experimenting, and trying to build something meaningful every step of 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
 
-  <br/><br/>
 
   <!-- tools & technologies -->
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white" />
@@ -77,7 +76,6 @@ Learning, experimenting, and trying to build something meaningful every step of 
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
 
-  <br/><br/>
 
   <!-- design tools -->
   <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white" />
@@ -85,7 +83,6 @@ Learning, experimenting, and trying to build something meaningful every step of 
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" />
 
-  <br/><br/>
 
   <!-- development tools -->
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" />
