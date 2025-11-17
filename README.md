@@ -110,16 +110,37 @@ Learning, experimenting, and trying to build something meaningful every step of 
 </p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=radical&no-frame=true&title=Stars,Followers,Repositories,Commits)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=matrix&title=Commits,Repositories,Stars,Followers,PullRequest&no-frame=false&margin-w=5)-->
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=juicyfresh&title=Stars,Commits,Repositories,Followers,PullRequest&no-bg=false&no-frame=true&margin-w=10&column=5" alt="GitHub Trophies" width="100%">
 </p>
 
-<!-- Neon red-gold trophy + green text glow -->
+
 <style>
   img[src*="github-profile-trophy"] {
     filter: hue-rotate(330deg) brightness(1.3) saturate(1.6) drop-shadow(0px 0px 6px #00ff55);
   }
+</style>-->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=juicyfresh&title=Stars,Commits,Repositories,Followers,PullRequest&no-bg=false&no-frame=true&margin-w=10&column=5" alt="GitHub Trophies" width="100%">
+</p>
+
+<!-- Gradient neon glow effect -->
+<style>
+  img[src*="github-profile-trophy"] {
+    /* base enhancement */
+    filter: brightness(1.25) saturate(1.8);
+
+    /* smooth gradient glow */
+    box-shadow:
+      0 0 12px 4px #6a5af9,   /* blue-violet */
+      0 0 20px 6px #b44cff,   /* purple */
+      0 0 28px 8px #ff4fb3;   /* pink */
+
+    border-radius: 12px;
+  }
 </style>
+
 
 
 
