@@ -121,28 +121,41 @@ Learning, experimenting, and trying to build something meaningful every step of 
     filter: hue-rotate(330deg) brightness(1.3) saturate(1.6) drop-shadow(0px 0px 6px #00ff55);
   }
 </style>-->
+
+
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=juicyfresh&title=Stars,Commits,Repositories,Followers,PullRequest&no-bg=false&no-frame=true&margin-w=10&column=5" alt="GitHub Trophies" width="100%">
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1000 220" preserveAspectRatio="xMidYMid meet" role="img">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="200%" y2="0%">
+        <stop offset="0%" stop-color="#ff0099">
+          <animate attributeName="offset" values="0;1;0" dur="6s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="50%" stop-color="#7a00ff">
+          <animate attributeName="offset" values="0.5;1.5;0.5" dur="6s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#00d4ff">
+          <animate attributeName="offset" values="1;2;1" dur="6s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="15" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+
+    <rect width="100%" height="100%" fill="url(#grad)" filter="url(#glow)" rx="20"/>
+    <image
+      href="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=juicyfresh&title=Stars,Commits,Repositories,Followers,PullRequest&no-bg=false&no-frame=true&margin-w=10&column=5"
+      x="0" y="0" width="100%" height="100%"
+      preserveAspectRatio="xMidYMid meet"
+    />
+  </svg>
 </p>
-
-<!-- Gradient neon glow effect -->
-<style>
-  img[src*="github-profile-trophy"] {
-    /* base enhancement */
-    filter: brightness(1.25) saturate(1.8);
-
-    /* smooth gradient glow */
-    box-shadow:
-      0 0 12px 4px #6a5af9,   /* blue-violet */
-      0 0 20px 6px #b44cff,   /* purple */
-      0 0 28px 8px #ff4fb3;   /* pink */
-
-    border-radius: 12px;
-  }
-</style>
-
-
-
 
 
 
