@@ -54,7 +54,6 @@ Learning, experimenting, and trying to build something meaningful every step of 
 </p>
 
 ---
-
 ## 💻 Tech Stack  
 <p align="center">
 
@@ -71,13 +70,28 @@ Learning, experimenting, and trying to build something meaningful every step of 
   <br/><br/>
 
   <!-- tools & technologies -->
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=%00C7B7" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white" />
+
+  <br/><br/>
+
+  <!-- design tools -->
+  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" />
+
+  <br/><br/>
+
+  <!-- development tools -->
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white" />
 
 </p>
 
