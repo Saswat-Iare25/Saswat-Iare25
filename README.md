@@ -110,8 +110,9 @@ Learning, experimenting, and trying to build something meaningful every step of 
 </p>-->
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=discord_old&no-frame=false&margin-w=10&exclude=issues,pullrequests,review,experience" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=discord&no-frame=false&margin-w=10&title=commits,stars,followers,repositories" />
 </p>
+
 
 
 ---
