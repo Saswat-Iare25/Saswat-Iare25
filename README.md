@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Saswat%20Rath&fontSize=60&fontAlignY=42&fontColor=ffffff&animation=fadeIn&customColorList=6A00FF,AA00FF,FF4FD8" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Saswat%20Rath&fontSize=60&fontColor=E5E5E5&animation=fadeIn&color=0:0B0F18,100:1E2635" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=2500&pause=900&color=C899FF&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast;Web+Developer;CSE+(AIML)+Student;Building%20Something%20New%20Everyday🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=2500&pause=900&color=8AB4F8&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast;Web+Developer;CSE+(AIML)+Student;Learning+Every+Single+Day🚀" />
 </p>
 
 ---
