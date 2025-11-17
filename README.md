@@ -133,7 +133,7 @@ Learning, experimenting, and trying to build something meaningful every step of 
 
 ---
 
-<!-- DARK FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0B0F18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0B0F18,100:1E2635" />
 </p>
+
