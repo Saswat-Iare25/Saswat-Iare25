@@ -1,6 +1,5 @@
-<!-- DARK MODE PREMIUM HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Saswat%20Rath&fontSize=60&fontColor=E5E5E5&animation=fadeIn&color=0:0B0F18,100:1E2635" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Saswat%20Rath&fontSize=60&fontColor=E5E5E5&animation=twinkling&color=0:0B0F18,100:1E2635" />
 </p>
 
 <p align="center">
@@ -10,7 +9,7 @@
 <br/>
 
 <p align="center">
-<b><a href="https://saswat-portfolio.netlify.app/" style="font-size: 22px;">Have a look at my portfolio! 😁</a></b>
+<b><a href="https://saswat-portfolio.netlify.app/" style="font-size: 22px;">Have a look at my portfolio! </a></b>
 </p>
 
 ---
