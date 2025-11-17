@@ -107,8 +107,10 @@ Learning, experimenting, and trying to build something meaningful every step of 
 <!--## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=radical&no-frame=true&title=Stars,Followers,Repositories,Commits)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=radical&no-frame=true&title=Stars,Followers,Repositories,Commits)](https://github.com/ryo-ma/github-profile-trophy)-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
