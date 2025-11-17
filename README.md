@@ -105,11 +105,7 @@ Learning, experimenting, and trying to build something meaningful every step of 
 ---
 
 ## 🏆 GitHub Trophies  
-<!--<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=radical&no-frame=true&title=Stars,Followers,Repositories,Commits)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=matrix&title=Commits,Repositories,Stars,Followers,PullRequest&no-frame=false&margin-w=5)-->
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=juicyfresh&title=Stars,Commits,Repositories,Followers,PullRequest&no-bg=false&no-frame=true&margin-w=10&column=5" alt="GitHub Trophies" width="100%">
@@ -120,7 +116,7 @@ Learning, experimenting, and trying to build something meaningful every step of 
   img[src*="github-profile-trophy"] {
     filter: hue-rotate(330deg) brightness(1.3) saturate(1.6) drop-shadow(0px 0px 6px #00ff55);
   }
-</style>-
+</style>
 
 
 ---
