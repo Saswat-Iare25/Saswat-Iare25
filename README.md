@@ -133,12 +133,127 @@ Learning, experimenting, and trying to build something meaningful every step of 
 
 ---
 
-<!--<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&section=footer&text=Thanks%20for%20visiting!%20&fontSize=32&fontColor=E5E5E5&color=0:0B0F18,100:1E2635" />
-</p>-->
+
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
   <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Snake</title>
+<style>
+body{margin:0;background:#060912}
+svg{width:100%;height:100vh;display:block}
+</style>
+</head>
+<body>
+<svg id="svgBoard" xmlns="http://www.w3.org/2000/svg"></svg>
+<script>
+const COLS=52,ROWS=7,CELL=12,GAP=4;
+const svg=document.getElementById("svgBoard");
+svg.setAttribute("viewBox",`0 0 ${(CELL+GAP)*COLS} ${(CELL+GAP)*ROWS}`);
+
+function generate(){return new Array(COLS*ROWS).fill(0).map(()=>0);}
+
+function drawGrid(){
+ svg.innerHTML=`<defs><linearGradient id='gSnake' x1='0%' x2='100%'>
+ <stop offset='0%' stop-color='#00FFE1'/>
+ <stop offset='50%' stop-color='#7C5CFF'/>
+ <stop offset='100%' stop-color='#FF4D6D'/>
+ </linearGradient></defs>`;
+ const centers=[];
+ let i=0;
+ for(let x=0;x<COLS;x++){
+  for(let y=0;y<ROWS;y++){
+   const vx=x*(CELL+GAP),vy=y*(CELL+GAP);
+   svg.innerHTML+=`<rect x='${vx}' y='${vy}' width='${CELL}' height='${CELL}' rx='3' ry='3' fill='#0b1220'/>`;
+   centers.push([vx+CELL/2,vy+CELL/2]);
+   i++;
+  }
+ }
+ return centers;
+}
+
+function selectSnake(){
+ const seq=[];
+ for(let x=0;x<COLS;x++){
+  if(x%2===0) for(let y=0;y<ROWS;y++) seq.push(x*ROWS+y);
+  else for(let y=ROWS-1;y>=0;y--) seq.push(x*ROWS+y);
+ }
+ return seq;
+}
+
+function catmullRomBezier(pts){
+ const p=[pts[0],...pts,pts[pts.length-1]];
+ let d=`M ${p[1][0]} ${p[1][1]}`;
+ for(let i=1;i<p.length-2;i++){
+  const p0=p[i-1],p1=p[i],p2=p[i+1],p3=p[i+2];
+  const bp1x=p1[0]+(p2[0]-p0[0])/6;
+  const bp1y=p1[1]+(p2[1]-p0[1])/6;
+  const bp2x=p2[0]-(p3[0]-p1[0])/6;
+  const bp2y=p2[1]-(p3[1]-p1[1])/6;
+  d+=` C ${bp1x} ${bp1y}, ${bp2x} ${bp2y}, ${p2[0]} ${p2[1]}`;
+ }
+ return d;
+}
+
+function buildSmooth(centers,seq){return catmullRomBezier(seq.map(i=>centers[i]));}
+
+function animate(d){
+ const base=document.createElementNS("http://www.w3.org/2000/svg","path");
+ const trail=document.createElementNS("http://www.w3.org/2000/svg","path");
+ const head=document.createElementNS("http://www.w3.org/2000/svg","path");
+
+ base.setAttribute("d",d);
+ base.setAttribute("stroke","transparent");
+ base.setAttribute("fill","none");
+
+ trail.setAttribute("d",d);
+ trail.setAttribute("stroke","url(#gSnake)");
+ trail.setAttribute("fill","none");
+ trail.setAttribute("stroke-width","8");
+
+ head.setAttribute("d",d);
+ head.setAttribute("stroke","url(#gSnake)");
+ head.setAttribute("fill","none");
+ head.setAttribute("stroke-width","4");
+
+ svg.appendChild(base);
+ svg.appendChild(trail);
+ svg.appendChild(head);
+
+ const len=base.getTotalLength();
+ trail.style.strokeDasharray=len;
+ trail.style.strokeDashoffset=len;
+ trail.style.transition="stroke-dashoffset 6s ease";
+ requestAnimationFrame(()=>trail.style.strokeDashoffset="0");
+
+ let t=0;const dur=6000;
+ function tick(){
+  t+=16;
+  const p=(t%dur)/dur;
+  const pos=base.getPointAtLength(len*p);
+  const pos2=base.getPointAtLength(len*Math.min(1,p+0.02));
+  head.setAttribute("d",`M ${pos.x} ${pos.y} L ${pos2.x} ${pos2.y}`);
+  requestAnimationFrame(tick);
+ }
+ tick();
+}
+
+(function(){
+ const centers=drawGrid();
+ const seq=selectSnake();
+ const d=buildSmooth(centers,seq);
+ animate(d);
+})();
+</script>
+</body>
+</html>
 
 
