@@ -138,3 +138,10 @@ Learning, experimenting, and trying to build something meaningful every step of 
 <p align="center">
   <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+
+<h1 align="center">Watch my Neon 🐍 Snake</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/neon-snake.gif" />
+</p>
+
