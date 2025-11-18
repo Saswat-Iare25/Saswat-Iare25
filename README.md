@@ -140,8 +140,4 @@ Learning, experimenting, and trying to build something meaningful every step of 
 </p>
 
 
-<h1 align="center">Watch my Neon 🐍 Snake</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/neon-snake.gif" />
-</p>
 
