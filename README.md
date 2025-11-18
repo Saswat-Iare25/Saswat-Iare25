@@ -104,7 +104,6 @@ Learning, experimenting, and trying to build something meaningful every step of 
 </p>
 
 ---
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🏆 GitHub Trophies  
 <p align="center">
