@@ -1,4 +1,4 @@
-<p align="center">  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
+<p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Saswat%20Rath&fontSize=60&fontColor=E5E5E5&animation=twinkling&color=0:0B0F18,100:1E2635" />
 </p>
 
@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
 <br>
 <p align="center">
-<b><a href="https://saswat-portfolio.netlify.app/" style="font-size: 22px;">Have a look at my portfolio! </a></b>
+<b><a href="https://saswat-portfolio.netlify.app/" style="font-size: 22px;">hey!   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> Have a look at my portfolio! </a></b>
 </p>
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
