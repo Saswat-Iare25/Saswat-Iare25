@@ -12,8 +12,9 @@
 <p align="center">
 <b><a href="https://saswat-portfolio.netlify.app/" style="font-size: 22px;">Have a look at my portfolio! </a></b>
 </p>
-
----
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
+<br>
 
 ## 🌌 About Me  
 Just a first-year tech enthusiast exploring the endless possibilities of code 🚀  
