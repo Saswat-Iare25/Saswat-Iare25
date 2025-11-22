@@ -15,13 +15,13 @@
 Just a first-year tech enthusiast exploring the endless possibilities of code 🚀  
 Learning, experimenting, and trying to build something meaningful every step of the way.
 
- First-year **CSE (AIML)** student at **IARE**  
+--First-year **CSE (AIML)** student at **IARE**  
 
- Learning **C, C++, Python, HTML, CSS, JS**  
+--Learning **C, C++, Python, HTML, CSS, JS**  
 
- Exploring **AI, Machine Learning & Web Development**  
+--Exploring **AI, Machine Learning & Web Development**  
 
- Curious about how intelligent systems learn   
+--Curious about how intelligent systems learn   
 
 ---
 
