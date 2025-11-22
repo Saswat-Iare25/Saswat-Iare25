@@ -115,8 +115,7 @@ Learning, experimenting, and trying to build something meaningful every step of 
 </p>
 
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
 ## 🟦 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saswat-Iare25&theme=tokyo-night&hide_border=false&area=true" width="100%"/>
