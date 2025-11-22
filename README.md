@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
 <br>
 <p align="center">
-<b><a href="https://saswat-portfolio.netlify.app/" style="font-size: 22px;">hey!   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> Have a look at my portfolio! </a></b>
+<b><a href="https://saswat-portfolio.netlify.app/" style="font-size: 22px;">Have a look at my portfolio! </a></b>
 </p>
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
@@ -137,7 +137,12 @@ Learning, experimenting, and trying to build something meaningful every step of 
   <img src="https://github-contributor-stats.vercel.app/api?username=Saswat-Iare25&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
+<br>
+<p align="center">
+  <b>Thanks for Visiting</b>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
+</p>
 
 
 
