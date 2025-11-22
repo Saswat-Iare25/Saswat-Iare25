@@ -92,8 +92,9 @@ Learning, experimenting, and trying to build something meaningful every step of 
   <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white" />
 
 </p>
-
----
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
+<br>
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -104,8 +105,9 @@ Learning, experimenting, and trying to build something meaningful every step of 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saswat-Iare25&theme=tokyonight&hide_border=false&layout=compact" height="160"/>
 </p>
-
----
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
+<br>
 
 ## 🏆 GitHub Trophies  
 <p align="center">
