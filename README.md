@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=2500&pause=900&color=8AB4F8&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast;Web+Developer;CSE+(AIML)+Student;Building+Every+Single+Day🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=2500&pause=900&color=8AB4F8&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast;Web+Developer;CSE+(AIML)+Student;Learning+Every+Single+Day" />
 </p>
 
 <br/>
