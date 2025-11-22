@@ -140,7 +140,7 @@ Learning, experimenting, and trying to build something meaningful every step of 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
 <br>
 <p align="center">
-  <b>Thanks for Visiting</b>
+  <b>Thanks for Visiting!!</b>
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
 </p>
 
