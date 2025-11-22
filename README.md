@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center">  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
   <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Saswat%20Rath&fontSize=60&fontColor=E5E5E5&animation=twinkling&color=0:0B0F18,100:1E2635" />
 </p>
 
