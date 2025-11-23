@@ -10,7 +10,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
 <br>
 
-
 ## 🌌 About Me  
 Just a first-year tech enthusiast exploring the endless possibilities of code 🚀  
 Learning, experimenting, and trying to build something meaningful every step of the way.
