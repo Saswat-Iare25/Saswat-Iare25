@@ -107,10 +107,8 @@ Learning, experimenting, and trying to build something meaningful every step of 
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=discord&no-frame=true&no-bg=true&margin-w=10" />
 </p>
-
-
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
