@@ -1,6 +1,7 @@
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Saswat%20Rath&fontSize=60&fontColor=F4E4B8&animation=twinkling&color=0:6E4B3A,50:B8860B,100:F7D77E" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Saswat%20Rath&fontSize=60&fontColor=FFF5D1&animation=twinkling&color=0:4E342E,50:8B5A2B,100:FFD700" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=2500&pause=900&color=8AB4F8&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast;Web+Developer;CSE+(AIML)+Student;Learning+Every+Single+Day" />
