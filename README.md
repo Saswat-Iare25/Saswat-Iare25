@@ -107,7 +107,10 @@ Learning, experimenting, and trying to build something meaningful every step of 
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=dark_dimmed&no-bg=true&no-frame=true&margin-w=10"
+    style="filter: hue-rotate(300deg) saturate(1.8) brightness(1.2);" 
+  />
 </p>
 
 
