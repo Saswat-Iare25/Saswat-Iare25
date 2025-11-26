@@ -33,9 +33,10 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Saswat-Iare25&theme=tokyonight&show_icons=true&hide_border=false"/>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saswat-Iare25&theme=tokyonight&layout=compact&hide_border=false"/>
+  <img height="155" src="https://github-readme-stats-godkingjay.vercel.app/api?username=Saswat-Iare25&theme=tokyonight&show_icons=true&hide_border=false"/>
+  <img height="155" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Saswat-Iare25&theme=tokyonight&layout=compact&hide_border=false"/>
 </p>
+
 
 ---
 
