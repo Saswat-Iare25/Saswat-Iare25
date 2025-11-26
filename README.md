@@ -47,9 +47,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Saswat-Iare25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"/>
-  <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=Saswat-Iare25&theme=tokyonight&hide_border=false"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saswat-Iare25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
+  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=Saswat-Iare25&theme=tokyonight&hide_border=false" />
 </p>
+
 
 ---
 
