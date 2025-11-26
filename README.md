@@ -1,21 +1,17 @@
-<!-- Header -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Saswat%20Rath&fontSize=60&fontColor=F5E6C8&animation=twinkling&color=0:4E342E,50:8B5A2B,100:FFD700" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=Saswat%20Rath&fontSize=55&fontColor=00D9FF&fontAlignY=40&animation=fadeIn&color=0:0A0F15,100:0F1722" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=2500&pause=900&color=8AB4F8&center=true&vCenter=true&width=750&lines=AIML+Student;AI%2FML+Enthusiast;Web+Developer;Learning+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=22&duration=2800&pause=800&color=6ECFFB&center=true&vCenter=true&width=650&lines=CSE+(AIML)+Student;AI%2FML+Enthusiast;Web+Developer;Learning+Something+New+Every+Day" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-I'm a first-year **CSE (AIML)** student at **IARE**, exploring the world of **AI, ML, and Web Development**.  
-I enjoy building small projects, learning new technologies, and improving a bit every day.
-
-- Learning: **C, C++, Python, HTML, CSS, JavaScript**  
-- Interests: **AI Systems, ML Models, Web Apps**  
-- Goal: Build clean projects & learn deeply.
+## 👨‍💻 About Me  
+I'm a first-year **CSE (AIML)** student exploring **AI, Machine Learning, and Web Development**.  
+I enjoy building clean, simple projects and learning every single day.
 
 ---
 
@@ -28,16 +24,31 @@ I enjoy building small projects, learning new technologies, and improving a bit 
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-ML-0A7E8C?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+## 💻 Tech Stack
+
+### 🧠 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+</p>
+
+### 🔧 Backend & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=php,postman,powershell,windows" />
+</p>
+
+### 💾 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### 🛠 Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,cpp,java" />
 </p>
 
 ---
@@ -57,7 +68,7 @@ I enjoy building small projects, learning new technologies, and improving a bit 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&title=Stars,Followers,Commits,Repositories"
+    src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&title=Stars,Followers,Commits,Repositories"
     width="800"
   />
 </p>
@@ -65,9 +76,9 @@ I enjoy building small projects, learning new technologies, and improving a bit 
 ---
 
 ## 🟦 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saswat-Iare25&theme=tokyo-night&hide_border=false&area=true" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saswat-Iare25&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
 
 ---
 
