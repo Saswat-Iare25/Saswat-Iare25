@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 - First-year **CSE (AIML)** student  
 - Exploring **Web Development & Programming**  
-- Trying to learn something new **every single day**
+- Trying to learn something new **every day**
 
 ---
 
