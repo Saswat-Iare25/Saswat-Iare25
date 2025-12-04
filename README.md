@@ -39,15 +39,3 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,powershell,netlify,vercel,idea" />
 </p>
 
----
-
-## 📊 GitHub Stats 
-<p align="center"> 
-  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=Saswat-Iare25&theme=tokyonight&hide_border=false" /> 
-
-
----
-
-<p align="center">
-  💙 Thanks for visiting!
-</p>
