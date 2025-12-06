@@ -59,12 +59,8 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saswat-Iare25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
-  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=Saswat-Iare25&theme=tokyonight&hide_border=false" />
 </p>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saswat-Iare25&theme=tokyonight&hide_border=false&layout=compact" />
-</p>
 
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
@@ -81,12 +77,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saswat-Iare25/Saswat-Iare25/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
-<br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
 
 ---
