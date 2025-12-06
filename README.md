@@ -1,41 +1,94 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&text=Saswat%20Rath&fontSize=50&fontColor=00D9FF&animation=fadeIn&color=0:0A0F15,100:0F1722" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Saswat%20Rath&fontSize=60&fontColor=F5E6C8&animation=twinkling&color=0:4E342E,50:8B5A2B,100:FFD700" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=2500&pause=900&color=8AB4F8&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast;Web+Developer;CSE+(AIML)+Student;Learning+Every+Single+Day" />
+</p>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
 
 ---
 
-## 👨‍💻 About Me
+## 🌌 About Me
 - First-year **CSE (AIML)** student  
-- Exploring **Web Development & Programming**  
-- Learning something new **every single day** 🚀  
+- Learning **Web Development + Programming**
+- Exploring **AI/ML**, Projects & Creativity
+- Trying to level-up every single day 🚀
 
 ---
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://www.linkedin.com/in/saswat-rath/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:saswat.iare25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://x.com/Sashwat_06">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/saswat-rath/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://bsky.app/profile/@sashwat-06.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+  <a href="mailto:saswat.iare25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/Sashwat_06"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://codepen.io/Saswat-IARE_25"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 </p>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
 
 ---
 
-## 📝 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,php" />
-</p>
+## 💻 Tech Stack
+
+### 🧠 AI / ML  
+<p><img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn"></p>
+
+### 🎨 Frontend  
+<p><img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,react,tailwind"></p>
+
+### ⚙ Backend & Tools  
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,postman"></p>
+
+### 🗄 Databases  
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"></p>
+
+### 🧰 Dev Tools  
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,windows,powershell,netlify,vercel,idea"></p>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
 
 ---
 
-## 🛠️ Tools
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,powershell,netlify,vercel,idea" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saswat-Iare25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
+  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=Saswat-Iare25&theme=tokyonight&hide_border=false" />
 </p>
 
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saswat-Iare25&theme=tokyonight&hide_border=false&layout=compact" />
+</p>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=juicyfresh&no-frame=true&no-bg=true&title=Commits,Stars,Followers,Repositories&margin-w=10" width="850"/>
+</p>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Saswat-Iare25/Saswat-Iare25/output/github-contribution-grid-snake.svg" />
+</p>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
+
+---
+
+<p align="center"><b>Thanks for Visiting!!</b> ✨</p>
