@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Saswat%20Rath&fontSize=60&fontColor=F5E6C8&animation=twinkling&color=0:4E342E,50:8B5A2B,100:FFD700" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&text=Saswat%20Rath&fontSize=50&fontColor=00D9FF&animation=fadeIn&color=0:0A0F15,100:0F1722" />
 </p>
 
 <p align="center">
@@ -56,15 +56,18 @@
 
 ---
 
-<h1 align="center">My GitHub Stats</h1>
+<h1 align="center">📊 My GitHub Stats</h1>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saswat-Iare25&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false" alt="Saswat-Iare25" />
+  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=Saswat-Iare25&theme=tokyonight&hide_border=false" />
 </p>
 
+<br/>
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Saswat-Iare25&show_icons=true&locale=en&theme=tokyonight&hide_border=false" alt="Saswat-Iare25" />
+  <img height="230" src="https://github-readme-activity-graph.vercel.app/graph?username=Saswat-Iare25&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" />
 </p>
+
 
 
 <br/>
