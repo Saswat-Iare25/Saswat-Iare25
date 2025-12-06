@@ -56,9 +56,14 @@
 
 ---
 
-## 📊 GitHub Stats
+<h1 align="center">My GitHub Stats</h1>
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saswat-Iare25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saswat-Iare25&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false" alt="Saswat-Iare25" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Saswat-Iare25&show_icons=true&locale=en&theme=tokyonight&hide_border=false" alt="Saswat-Iare25" />
 </p>
 
 
