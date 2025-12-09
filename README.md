@@ -40,8 +40,3 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saswat-Iare25&theme=juicyfresh&no-frame=true&no-bg=true&title=Commits,Stars,Followers,Repositories&margin-w=10" width="850"/>
-</p>
